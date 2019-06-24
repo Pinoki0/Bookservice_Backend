@@ -1,0 +1,93 @@
+@import url("reset.css");
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color:#333
+}
+
+p {
+    padding: 10px;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+#headerwrap {
+    width: 1000px;
+    float: left;
+    margin: 0 auto;
+}
+
+#header {
+    height: 75px;
+    background: #FF6633;
+    border-radius: 10px;
+    border: 1px solid #eb521f;
+    margin: 5px;
+}
+
+#navigationwrap {
+    width: 1000px;
+    float: left;
+    margin: 0 auto;
+}
+
+#navigation {
+    height: 40px;
+    background: #FFCC33;
+    border-radius: 10px;
+    border: 1px solid #ebb81f;
+    margin: 5px;
+}
+
+#contentwrap {
+    width: 850px;
+    float: left;
+    margin: 0 auto;
+}
+
+#content {
+    background: #FFFFFF;
+    border-radius: 10px;
+    height: 750px;
+    border: 1px solid #ebebeb;
+    margin: 5px;
+}
+
+#rightcolumnwrap {
+    width: 150px;
+    float: left;
+    margin: 0 auto;
+}
+
+#rightcolumn {
+    background: #CC33FF;
+    border-radius: 10px;
+    border: 1px solid #b81feb;
+    margin: 5px;
+}
+
+#footerwrap {
+    width: 1000px;
+    float: left;
+    margin: 0 auto;
+    clear: both;
+}
+
+#footer {
+    height: 40px;
+    background: #33FF66;
+    border-radius: 10px;
+    border: 1px solid #1feb52;
+    margin: 5px;
+}
+
+/* ^^^^^^^^ BELOW IS THE CODE FOR THE MENU ^^^^^^^^^^
+#stylefour{position:relative;display:block;height:39px;font-size:11px;font-weight:bold;font-family:Arial,Verdana,Helvitica,sans-serif;border-top:4px solid #B30000;}
+*/#stylefour ul{margin:0;padding:0;list-style-type:none;width:auto;}
+#stylefour ul li{display:block;float:left;margin:0;}
+#stylefour ul li a{display:block;float:left;color:#666;text-decoration:none;padding:11px 20px 0 20px;height:23px;}
+#stylefour ul li a:hover,#stylefour ul li a.current{color:#B30000;background:#fff ;}
+/* ^^^^^^^^ ABOVE IS THE CODE FOR THE MENU ^^^^^^^^^^ */

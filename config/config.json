@@ -1,0 +1,8 @@
+{
+  "mongoURI":"mongodb://userbookweb:userbookweb1!@ds131784.mlab.com:31784/bookservice",
+
+  "apiKey":"709512056836-j4be6epo2dn4ttctg0erg03dmhb72t8d.apps.googleusercontent.com" ,
+  "client_id":"709512056836-j4be6epo2dn4ttctg0erg03dmhb72t8d.apps.googleusercontent.com" ,
+  "client_secret":"1GNTw-g1OEAmT9WxnWTrdaXz" ,
+  "cookieSession":"cos"
+}
